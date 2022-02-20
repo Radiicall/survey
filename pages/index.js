@@ -5,13 +5,14 @@ export default function Home() {
   const answer = event => {
     event.preventDefault();
 
-    console.log(answer);
+    console.log(answer.toString());
   }
   return (
     <>
       <Head>
         <title>Spørreundersøkelse</title>
       </Head>
+      <h1>Spørreundersøkelse</h1>
       <form onSubmit={answer}>
         <p>Name:</p>
         <label htmlFor="name" />
