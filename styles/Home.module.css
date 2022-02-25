@@ -1,0 +1,31 @@
+.input {
+    color: rgb(232, 230, 237);
+    background-color: rgb(25, 26, 27);
+    border-style: dotted;
+    border-color: rgb(85, 66, 121);
+    border-radius: 112mm;
+}
+
+.textarea {
+    color: rgb(232, 230, 237);
+    background-color: rgb(25, 26, 27);
+    border-style: dotted;
+    border-color: rgb(85, 66, 121);
+    border-radius: 5mm;
+}
+
+.button {
+    color: rgb(232, 230, 237);
+    background-color: rgb(25, 26, 27);
+    border-style: dotted;
+    border-color: rgb(85, 66, 121);
+    border-radius: 112mm;
+}
+
+.button:hover {
+    color: rgb(232, 230, 237);
+    background-color: rgb(43, 51, 58);
+    border-style: dotted;
+    border-color: rgb(85, 66, 121);
+    border-radius: 112mm;
+}
