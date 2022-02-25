@@ -6,6 +6,7 @@ export default function MyApp({ Component, pageProps }) {
     <>
       <Component {...pageProps} />
       <Head>
+        <title>Survey</title>
         <link href="/favicon.ico" />
       </Head>
     </>
